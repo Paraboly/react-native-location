@@ -75,16 +75,4 @@
     "typescript": "^3.1.6",
     "typescript-eslint-parser": "^21.0.1"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "pre-push": "npm test"
-    }
-  },
-  "lint-staged": {
-    "*.ts": [
-      "npm run eslint -- --fix",
-      "git add"
-    ]
-  }
 }
