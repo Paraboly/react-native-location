@@ -1,6 +1,6 @@
 # `react-native-location`
 
-![MIT License](https://img.shields.io/npm/l/react-native-location.svg) ![Supports Android and iOS](https://img.shields.io/badge/platforms-android%20|%20ios-lightgrey.svg) ![Supports React Native >= 0.46](https://img.shields.io/badge/react%20native-%3E%3D%200.46-lightgrey.svg) [![CircleCI Status](https://img.shields.io/circleci/project/github/timfpark/react-native-location/master.svg)](https://circleci.com/gh/timfpark/workflows/react-native-location/tree/master)
+![MIT License](https://img.shields.io/npm/l/react-native-location.svg) ![Supports Android and iOS](https://img.shields.io/badge/platforms-android%20|%20ios-lightgrey.svg) ![Supports React Native >= 0.46](https://img.shields.io/badge/react%20native-%3E%3D%200.46-lightgrey.svg) [![CircleCI Status](https://img.shields.io/circleci/project/github/Paraboly/react-native-location/master.svg)](https://circleci.com/gh/Paraboly/workflows/react-native-location/tree/master)
 
 Native GPS location support for React Native. You might decide to use this library over the [built-in geolocation](https://facebook.github.io/react-native/docs/geolocation.html) because it includes some additional features:
 
@@ -156,7 +156,7 @@ implementation "com.google.android.gms:play-services-location:16.0.0"
 </details>
 
 ## Example application
-In the [example](https://github.com/timfpark/react-native-location/example) folder is a React Native sample app which you can use as a sample implementation to start from.
+In the [example](https://github.com/Paraboly/react-native-location/example) folder is a React Native sample app which you can use as a sample implementation to start from.
 
 The app requests permissions, takes reading every 5 distance and starts immediately. To use in the iOS simulator, look on the `Debug -> Location` menu for sample trips that will show you updating location such as City Bycicle Ride, City Run, and Freeway Drive.
 

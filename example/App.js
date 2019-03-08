@@ -11,7 +11,7 @@ import {
 import RNLocation from "react-native-location";
 import moment from "moment";
 
-const repoUrl = "https://github.com/timfpark/react-native-location";
+const repoUrl = "https://github.com/Paraboly/react-native-location";
 
 export default class App extends React.PureComponent {
   constructor() {

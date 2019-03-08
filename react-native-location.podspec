@@ -9,8 +9,8 @@ Pod::Spec.new do |s|
   s.description    = package['description']
   s.license        = package['license']
   s.author         = package['author']
-  s.homepage       = 'https://github.com/timfpark/react-native-location'
-  s.source         = { :git => "https://github.com/timfpark/react-native-location.git", :tag => "#{s.version}" }
+  s.homepage       = 'https://github.com/Paraboly/react-native-location'
+  s.source         = { :git => "https://github.com/Paraboly/react-native-location.git", :tag => "#{s.version}" }
   s.framework      = 'CoreLocation'
   s.source_files   = "ios/**/*.{h,m}"
 

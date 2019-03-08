@@ -1,16 +1,20 @@
 {
-  "name": "react-native-location",
+  "name": "@paraboly/react-native-location",
   "description": "Native GPS location support for React Native",
-  "author": "React Native Community",
-  "version": "2.2.0",
+  "author": "Paraboly Mobile Team",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timfpark/react-native-location.git"
+    "url": "https://github.com/Paraboly/react-native-location.git"
   },
   "license": "MIT",
   "keywords": [
     "react-native",
     "react-component",
+    "react-native-location",
+    "real-time",
+    "continues-location",
+    "paraboly",
     "ios",
     "android",
     "location"
