@@ -74,5 +74,5 @@
     "typedoc": "^0.13.0",
     "typescript": "^3.1.6",
     "typescript-eslint-parser": "^21.0.1"
-  },
+  }
 }
