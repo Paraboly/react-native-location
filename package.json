@@ -2,7 +2,7 @@
   "name": "@paraboly/react-native-location",
   "description": "Native GPS location support for React Native",
   "author": "Paraboly Mobile Team",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/Paraboly/react-native-location.git"
@@ -70,9 +70,12 @@
     "prettier": "^1.15.2",
     "react": "16.6.1",
     "react-native": "0.57.5",
-    "rimraf": "^2.6.2",
+    "rimraf": "^2.6.3",
     "typedoc": "^0.13.0",
-    "typescript": "^3.1.6",
+    "typescript": "^3.3.3333",
     "typescript-eslint-parser": "^21.0.1"
+  },
+  "dependencies": {
+    "tsc": "^1.20150623.0"
   }
 }

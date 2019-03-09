@@ -8,7 +8,7 @@ import {
   TouchableHighlight,
   View
 } from "react-native";
-import RNLocation from "react-native-location";
+import RNLocation from "@paraboly/react-native-location";
 import moment from "moment";
 
 const repoUrl = "https://github.com/Paraboly/react-native-location";

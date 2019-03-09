@@ -7,6 +7,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "@paraboly/react-native-location": "0.0.1",
+    "metro": "^0.53.0",
     "react": "16.6.3",
     "react-native": "0.58.6"
   },
