@@ -1,5 +1,5 @@
 {
-  "name": "react-native-location",
+  "name": "@paraboly/react-native-location",
   "description": "Native GPS location support for React Native",
   "author": "React Native Community",
   "version": "0.0.4",
